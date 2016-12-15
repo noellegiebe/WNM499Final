@@ -113,6 +113,18 @@ img {
   text-align: center;
   opacity: 0.2;
   padding: 2rem; }
+<<<<<<< HEAD
+=======
+  @media (min-width: 800px) {
+    .menuBack-section {
+      display: block;
+      width: 100%;
+      position: relative;
+      bottom: auto;
+      left: auto;
+      transform: none;
+      padding: 1rem; } }
+>>>>>>> d18a6cad76f7c7b8d53458130b398c0d74ecd3b9
 
 .card-name-wrapper {
   position: relative;

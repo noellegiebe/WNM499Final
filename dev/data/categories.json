@@ -9,10 +9,18 @@
   },
   {
     "categoryName": "Creamy",
+<<<<<<< HEAD
     "categoryDes": "Creamy and frothy goodness"
   },
   {
     "categoryName": "Flavored Drinks",
     "categoryDes": "Enjoy your coffee with the seasons"
+=======
+    "categoryDes": "Blah blah blah"
+  },
+  {
+    "categoryName": "Flavored Drinks",
+    "categoryDes": "Blah blah blah"
+>>>>>>> d18a6cad76f7c7b8d53458130b398c0d74ecd3b9
   }
 ]
